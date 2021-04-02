@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LuCtos
+- 👀 I’m interested in work as a Back-end python developer.
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: send me a message on Instagram @lcssouzas
