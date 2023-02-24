@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Veracidade
 - 👀 I’m interested in work as a Back-end python developer.
-- 🌱 I’m currently learning Python and JavaScript.
-- 📫 How to reach me: send me a message on Instagram @lcssouzas or Whatsapp: 21 9 8631-2160
+- 🌱 I’m currently learning Html, CSS and JavaScript.
+- 📫 How to reach me: send me a message on Instagram @lcssouzas or Whatsapp: +55 21 98631-2160
