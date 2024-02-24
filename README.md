@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LucasSantos
-- 👀 I’m interested in work as a Front-end developer.
-- 🌱 I’m currently learning Html, CSS and JavaScript.
-- 📫 How to reach me: send me a message on Instagram @lcssouzas or Whatsapp: +55 21 98631-2160
+- 👀 I’m interested in work as a Back-end developer.
+- 🌱 I’m currently learning Flask and making some projects to post.
+- 📫 How to reach me: send me a message on Instagram: @lcssouzas or Whatsapp: +55 21 98631-2160
